@@ -21,15 +21,25 @@ StyIn, mobile app built using React Native,
 
 ## Setup instructions
 
+### 1. Clone the project
+
+```sh
+# Clone the app 
+git clone https://github.com/Hophoet/stylIn-template.git
+cd stylIn-template
+
+```
+
 ### 1. Install dependencies
 
 ```sh
-cd ./stylIn
-
 # Install npm dependencies
 npm install
+
 # link 
 react-native link
+
+
 ```
 ### 2. Start your app
 
